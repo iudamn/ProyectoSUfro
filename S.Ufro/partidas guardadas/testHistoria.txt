@@ -1,0 +1,19 @@
+Parte 1
+Esto es un test para recorrer un archivo de texto
+No contiene informacion importante, por ahora.
+Ingresar opcion 1, 2 o 3.
+Parte 2
+A futuro la idea es recorrer secciones
+
+
+O "eventos" guardados en archivos de texto como este
+
+Ingresar opcion 1, 2 o 3.
+Parte 3
+Se presentará un evento de esta manera
+y la decision del usuario determinará en cada caso 
+de que manera se actualizaran las estadísticas de las cuales depende el final del juego
+Ingresar opcion 1, 2 o 3.
+Parte 4
+Con esto concluye el test.
+Ingresar opcion 1, 2 o 3 para finalizar.
