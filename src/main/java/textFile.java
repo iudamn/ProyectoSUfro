@@ -6,8 +6,7 @@ import java.util.HashMap;
 public class textFile {
         public static HashMap archivo() throws IOException {
             //Colocar dirección en la que se encontrará el archivo con usuarios y contraseñas.
-            String filePath = "C:\\Users\\Jota\\IdeaProjects\\S.Ufro\\partidas guardadas\\IDPass.txt";
-            //Inicializar HashMap que contendrá la información para despues verificarla
+            String filePath;
             HashMap<String, String> map = new HashMap();
             //Reader
             String line;
